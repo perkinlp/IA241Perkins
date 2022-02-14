@@ -29,3 +29,8 @@ print(my_name*3)
 
 #3.8
 print('Hello world. This is my first python string.'.split('.'))
+
+#3.9
+#message = 'Tom's id is 123'
+#print(message)
+#Gives an error due to the extra ' in Tom
