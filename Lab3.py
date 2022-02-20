@@ -38,3 +38,4 @@ game_board = [[0,0,0],
               [0,0,0]]
 game_board[1][1] = 1
 print(game_board[1][1])
+
