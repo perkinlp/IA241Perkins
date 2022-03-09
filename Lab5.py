@@ -27,13 +27,22 @@ if 'apple' in favorite_fruits:
 #5.4
 age = 67
 
-if age < 10:
-    print('You are a kid')
+#if age < 10:
+ #   print('You are a kid')
     
-elif age < 20:
-    print('You are a teenager')
+#elif age < 20:
+#    print('You are a teenager')
     
-else:
+#else:
+#    print('You are an adult')
+#    if age > 65:
+#        print('You are an elder')
+        
+if age >= 20:
     print('You are an adult')
     if age > 65:
         print('You are an elder')
+elif age > 10:
+    print('You are a teenager')
+else:
+    print('You are a kid')
