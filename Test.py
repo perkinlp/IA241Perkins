@@ -1,5 +1,7 @@
-v1 = (1, 2, 3)
-print(len(v1))
+i = 1
 
-_1st_number = (1)
-print(_1st_number)
+while i <=5:
+
+ i = i +1
+
+ print (i)

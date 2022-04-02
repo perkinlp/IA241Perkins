@@ -19,3 +19,7 @@ print(find_min([1,2,3,4]))
 #8.4
 demo_list = [1,2,3,4,5,6]
 print(find_min(demo_list))
+
+#8.5
+mix_list = [1,2,3,4,'a',5,6]
+print(find_min(mix_list))
